@@ -9,11 +9,9 @@
                     "name": "Group 1",
                     "ingredients": [
                         {
-                            {
-                                "name": "banan",
-                                "unit": "g",
-                                "quantity": 200
-                              }
+                            "name": "banan",
+                            "unit": "g",
+                            "quantity": 200
                         }
                     ]
                 }
