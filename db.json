@@ -1,0 +1,23 @@
+{
+    "recipes": [
+        {
+            "id": "test",
+            "name": "Test 1",
+            "description": "Test description",
+            "ingredientGroups": [
+                {
+                    "name": "Group 1",
+                    "ingredients": [
+                        {
+                            {
+                                "name": "banan",
+                                "unit": "g",
+                                "quantity": 200
+                              }
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}
