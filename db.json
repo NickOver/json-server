@@ -15,6 +15,9 @@
                         }
                     ]
                 }
+            ],
+            "preparationSteps": [
+                "description": "Przykłóadowy krok przygotowania"
             ]
         }
     ]
