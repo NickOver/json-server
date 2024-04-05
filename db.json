@@ -17,7 +17,9 @@
                 }
             ],
             "preparationSteps": [
-                "description": "Przykłóadowy krok przygotowania"
+                {
+                  "description": "Przykładowy krok przytgotowania"  
+                }
             ]
         }
     ]
