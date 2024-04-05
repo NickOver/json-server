@@ -10,7 +10,7 @@
                     "ingredients": [
                         {
                             "name": "banan",
-                            "unit": "g",
+                            "unitId": "dbb9bd73-63c9-4d80-be3b-5a8e1e779eba",
                             "quantity": 200
                         }
                     ]
